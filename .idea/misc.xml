@@ -4,10 +4,21 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/user/AndroidStudioProjects/MovieDB/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MovieDB/app/src/main/res/layout/activity_main_menu.xml" value="0.2" />
         <entry key="..\:/Users/user/AndroidStudioProjects/MovieDB/app/src/main/res/layout/activity_movie_details.xml" value="0.176" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MovieDB/app/src/main/res/layout/activity_movie_details2.xml" value="0.13020833333333334" />
         <entry key="..\:/Users/user/AndroidStudioProjects/MovieDB/app/src/main/res/layout/activity_now_playing.xml" value="0.12364130434782608" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MovieDB/app/src/main/res/layout/card_genre.xml" value="0.25052083333333336" />
         <entry key="..\:/Users/user/AndroidStudioProjects/MovieDB/app/src/main/res/layout/card_now_playing.xml" value="0.264" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MovieDB/app/src/main/res/layout/card_production_company.xml" value="0.264" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MovieDB/app/src/main/res/layout/card_up_coming.xml" value="0.1546875" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MovieDB/app/src/main/res/layout/fragment_movie_details.xml" value="0.264" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MovieDB/app/src/main/res/layout/fragment_now_playing.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MovieDB/app/src/main/res/layout/fragment_upcoming.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MovieDB/app/src/main/res/layout/loading.xml" value="0.1546875" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MovieDB/app/src/main/res/layout/main_menu.xml" value="0.13020833333333334" />
         <entry key="..\:/Users/user/AndroidStudioProjects/MovieDB/app/src/main/res/layout/now_playing.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MovieDB/app/src/main/res/menu/main_menu.xml" value="0.13020833333333334" />
       </map>
     </option>
   </component>

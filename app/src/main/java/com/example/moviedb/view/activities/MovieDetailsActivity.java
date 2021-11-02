@@ -1,4 +1,4 @@
-package com.example.moviedb.view;
+package com.example.moviedb.view.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -10,8 +10,6 @@ import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
 import com.example.moviedb.R;
-import com.example.moviedb.helper.Const;
-import com.example.moviedb.model.Movies;
 
 public class MovieDetailsActivity extends AppCompatActivity {
 
@@ -55,7 +53,7 @@ public class MovieDetailsActivity extends AppCompatActivity {
         lbl_title.setText(movie_title);
         lbl_release_date = findViewById(R.id.lbl_movie_release_date);
         lbl_release_date.setText(movie_date);
-        img_poster = (ImageView) findViewById(R.id.img_poster_nowplaying);
+        img_poster = (ImageView) findViewById(R.id.image_backdrop);
         ratingBar = findViewById(R.id.ratingBar);
         ratingBar.setRating(Float.parseFloat(movie_rating)/2);
 

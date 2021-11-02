@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".view.MovieDetailsActivity">
+    tools:context=".view.activities.MovieDetailsActivity">
 
     <androidx.cardview.widget.CardView
         android:id="@+id/cardView"
@@ -25,7 +25,7 @@
             android:background="#0CFFFFFF">
 
             <ImageView
-                android:id="@+id/img_poster_nowplaying"
+                android:id="@+id/image_backdrop"
                 android:layout_width="157dp"
                 android:layout_height="183dp"
                 android:translationZ="90dp"
